@@ -1,0 +1,19 @@
+{
+  "name": "conim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/conim.git"
+  },
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/conim/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/conim#readme",
+  "description": ""
+}
